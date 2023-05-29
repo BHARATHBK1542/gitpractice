@@ -1,3 +1,2 @@
 # gitpractice
-hi
-hello
+hi hello
